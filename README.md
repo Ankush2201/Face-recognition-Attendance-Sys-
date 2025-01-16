@@ -6,6 +6,8 @@
 
 This project is a Python-based GUI application that interfaces with a MongoDB database to manage student attendance. It includes functionalities for registering new students and marking their attendance using face recognition.
 
+![image](https://github.com/user-attachments/assets/4164b487-c2d5-4299-9a9a-855e4faaca76)
+
 ## Project Structure
 
 - `database.py`: Contains the code for connecting and interacting with the MongoDB database.
